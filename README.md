@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Moatz Mohamed! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;Turning+Data+Into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Power+BI+%7C+SQL+%7C;Turning+Data+Into+Insights" alt="Typing SVG" />
 </p>
 
 ---
