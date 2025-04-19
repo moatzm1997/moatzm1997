@@ -14,6 +14,7 @@
 
 ## 🚀 Currently:
 - Working on real-world data projects and dashboards
+- Learning Python for Data Analysis 
 
 ## 🤝 Open to Collaborate On:
 - Power BI dashboards
